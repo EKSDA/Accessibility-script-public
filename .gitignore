@@ -1,0 +1,7 @@
+cdse_credentials.txt
+earthdata_credentials.txt
+earthdata_token*.txt
+accessibility_results_*
+__pycache__/
+*.pyc
+.venv/
