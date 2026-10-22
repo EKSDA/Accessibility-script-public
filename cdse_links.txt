@@ -1,0 +1,2 @@
+https://download.dataspace.copernicus.eu/odata/v1/Products(067de5f3-6b43-4223-9df4-fe51a831e3a8)/$value
+https://download.dataspace.copernicus.eu/odata/v1/Products(581e4302-7196-453b-a09f-8822c67497aa)/$value
