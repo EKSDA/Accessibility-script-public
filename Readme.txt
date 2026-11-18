@@ -87,7 +87,8 @@ STEP 3. Input the number of iterations performed for each link within each archi
 STEP 4. When the script run has completed, a '✓ Data saved to Excel: combined_latency_date_time.xlsx' message will appear. 
 
 STEP 5. The output file combined_latency_date_time.xlsx will be present in script folder.
-If not, it will aso be in file explorer of Spyder. Right click on the file name, click 'Show in folder', and send the output file to exk419@student.bham.ac.uk
+If not, it will aso be in file explorer of Spyder. Right click on the file name, click 'Show in folder',
+and Please upload the output here: https://forms.gle/w7JjhB5qdTkeV7qA6
 
 *************************************************************************************************************
 *PLEASE PERFORM THE SAME RUN ON A SIM CARD HAVING SUFFIECIENT AMOUNT OF BUNDLE DATA (20GB OF DATA OR MORE)	          *
@@ -105,3 +106,11 @@ Thank you for your participation.
 *     PLEASE SIGN THE CONSENT FOR BEFORE RUNNING SCRIPT BELOW:     *
 *             https://forms.gle/JsNpXVXier4maRpH8                  *
 ********************************************************************
+
+********************************************************************
+*             PLEASE UPLOAD THE OUTPUT HERE:                       *
+*            https://forms.gle/w7JjhB5qdTkeV7qA6                   *
+********************************************************************
+
+
+
