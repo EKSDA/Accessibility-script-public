@@ -1,3 +1,8 @@
+********************************************************************
+*     PLEASE SIGN THE CONSENT FOR BEFORE RUNNING SCRIPT BELOW:     *
+*             https://forms.gle/JsNpXVXier4maRpH8                  *
+********************************************************************
+
 The archive latency script runs on Python's integrated development environment, Spyder.
 
 ****PLEASE ENSURE YOU ADD YOUR EARTHDATA AND CDSE CREDENTIALS TO THE 'earthdata_credentials','earthdata_token' and 'cdse_credentials' text files.****
@@ -89,3 +94,8 @@ Please note- Data Volumes for iterations are as follows:
 10 iterations- 21.6 GB
 
 Thank you for your participation.
+
+********************************************************************
+*     PLEASE SIGN THE CONSENT FOR BEFORE RUNNING SCRIPT BELOW:     *
+*             https://forms.gle/JsNpXVXier4maRpH8                  *
+********************************************************************
