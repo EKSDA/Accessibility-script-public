@@ -1,3 +1,9 @@
+Thank you for your participation.
+
+┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐     ┌─────────────────────────┐
+│  1. COMPLETE THE │     │  2. DOWNLOAD THE │     │  3. RUN THE      │     │  4. UPLOAD OUTPUT FILE  │
+│     CONSENT FORM │ ──► │     SCRIPT       │ ──► │     SCRIPT       │ ──► │     TO SUBMISSION FORM  │
+└──────────────────┘     └──────────────────┘     └──────────────────┘     └─────────────────────────┘
 ********************************************************************
 *     PLEASE SIGN THE CONSENT FOR BEFORE RUNNING SCRIPT BELOW:     *
 *             https://forms.gle/JsNpXVXier4maRpH8                  *
